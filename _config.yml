@@ -1,4 +1,3 @@
-layout_spectrum: 0.16135169612243772
 typography_spectrum: 0.12021386926062405
 color:
   brandStrength: 0.40798646910116076
@@ -6,9 +5,11 @@ color:
   saturation: 0.4331267655361444
   rhythmicContrast: 0.3892054974567145
   brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+layout_spectrum: 0.16135169612243772
 name: Corazonada
+description: Esto seria subt
